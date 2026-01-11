@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ohnovangogh
 - 👀 I’m interested in using coding to improve and reduce pressures within healthcare 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on NHS related projects, as well as those with a focus on sustainability
+- 💞️ I’m looking to collaborate on health related projects, as well as those with a focus on climate change and sustainability
 - 📫 How to reach me ...send me a message on github
 
 <!---
